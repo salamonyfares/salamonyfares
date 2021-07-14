@@ -1,7 +1,5 @@
-### This is my Information! 👋
+### This is Information About Me! 👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Medical Image Segmentation Using U-Nets
 - 🌱 I’m currently learning ... Tensorflow, Pytorch, React.js
