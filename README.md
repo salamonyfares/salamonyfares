@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... fares.salamouny@gmail.com
 - 😄 Pronouns: ... Me/I
 - ⚡ Fun fact: ... I Just Graduated!
--->
