@@ -1,4 +1,4 @@
-### This is Information About Me! 👋
+### Hello There! 👋
 
 
 - 🔭 I’m currently working on ... Medical Image Segmentation Using U-Nets
