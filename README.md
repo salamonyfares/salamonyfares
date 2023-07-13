@@ -1,11 +1,11 @@
 ### Hello There! 👋
 
 
-- 🔭 I’m currently working on ... Medical Image Segmentation Using U-Nets
-- 🌱 I’m currently learning ... Tensorflow, Pytorch, React.js
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ... Pytorch
+- 🔭 I’m currently working on ... Outlier Detection of LHC collisons using Diffusion models
+- 🌱 I’m currently learning ... Tensorflow, Pytorch, Diffusion Models
+- 👯 I’m looking to collaborate on ... Machine Learning Projects
+- 🤔 I’m looking for help with ... GANs
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... fares.salamouny@gmail.com
-- 😄 Pronouns: ... Me/I
-- ⚡ Fun fact: ... I Just Graduated!
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I Love Coding!
